@@ -10,5 +10,9 @@ GOOGLE is better then Bing and duckduckgo
 All search engines does not return the same results
 Searching "Introduction to text analysis" 
 Google - specific to the point guides and libraries links.
-Duckduckgo - few introduction specific links but also gave me text processing and APIs related results.
+duckduckgo - few introduction specific links but also gave me text processing and APIs related results.
 Bing - slides, tools and methods also related in the search and guides.
+Search suggestions observed.
+Google - was more specified and suggested me exactly to the point what i was looking for in first 3 suggestions.
+duckduckgo - was not linking what i was searching for 
+bing - was not showing user required suggestions thus was not satisfying.
