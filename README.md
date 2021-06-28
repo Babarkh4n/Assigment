@@ -16,3 +16,7 @@ Search suggestions observed.
 Google - was more specified and suggested me exactly to the point what i was looking for in first 3 suggestions.
 duckduckgo - was not linking what i was searching for 
 bing - was not showing user required suggestions thus was not satisfying.
+Algorithms used by 
+Google - PageRank, which give it an upper hand. 
+bing - according to research bing uses spam detector. 
+duckduckgo - uses Webcrawler, duckduckbot and other search engines as well.
